@@ -13,6 +13,6 @@
     <img src="https://github.com/lesolski/lesolski/blob/main/assets/twitter-logo-brand.svg" width="40" height="40">
   </a>
   <a href="https://stackoverflow.com/users/17988002/lesolski?tab=profile" target="_blank">
-    <img src="https://github.com/lesolski/lesolski/blob/main/assets/stackoverflow-logo-brand.svg" width="30" height="30">
+    <img src="https://github.com/lesolski/lesolski/blob/main/assets/stackoverflow-logo-brand.svg" width="40" height="40" >
   </a>
 </p>
