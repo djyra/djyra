@@ -3,5 +3,5 @@
 
 
 <a href="https://discordapp.com/users/924759695753900137" >
-  <img src="https://github.com/lesolski/lesolski/assets/discord-logo-brand.svg" width="100%" height="80">
+  <img src="https://github.com/lesolski/lesolski/blob/main/assets/discord-logo-brand.svg" width="100%" height="80">
 </a>
